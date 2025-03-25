@@ -6,3 +6,5 @@
     - DBSCAN
     - hierarchical_clustering
     - k_means
+- Projects
+    - End-to-End-Machine_Learning_Project
